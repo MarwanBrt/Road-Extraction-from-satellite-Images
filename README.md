@@ -132,8 +132,14 @@ Road-Extraction-from-satellite-Images/
 ## Author
 
 **Marouane Barati**
-- GitHub: [@Escobar-12](https://github.com/Escobar-12)
+- GitHub: [@MarwanBrt](https://github.com/MarwanBrt)
 - Email: marwanbrt12@gmail.com
+
+---
+
+## License
+
+This project is licensed under the MIT License
 
 ---
 
