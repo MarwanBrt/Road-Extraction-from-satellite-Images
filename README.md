@@ -43,7 +43,7 @@ CUDA 11.0+ (optional, for GPU acceleration)
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Escobar-12/Road-Extraction-from-satellite-Images/
+git clone https://github.com/MarwanBrt/Road-Extraction-from-satellite-Images/
 cd Road-Extraction-from-satellite-Images
 ```
 
